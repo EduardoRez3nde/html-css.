@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+    background-image: radial-gradient(#646E7A, #85bcff00, #CDE1FA, #38567A);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1{
+    background-image: radial-gradient(#00a2ff, #ffffff94,);
+    color: rgb(0, 0, 0);
+
+}
+p{
+    color: aliceblue;
+
+}
