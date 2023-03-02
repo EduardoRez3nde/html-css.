@@ -2,3 +2,10 @@
 
 /*aparelho em pe (portrait)*/
 
+body{
+    background-image: url(../imagens/cev-portrait.jpg);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
